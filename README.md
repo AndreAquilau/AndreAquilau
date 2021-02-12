@@ -1,2 +1,4 @@
 ### Hi there, I'm André 👋
-[<img src="/assets/img/linkdin.svg" alt="" />](https://www.linkedin.com/in/andr%C3%A9-aquilau-5995231b3/)
+
+💻 Estudando atualmente
+[Node.js](https://camo.githubusercontent.com/50fb800859c28c2b54c2a205a9ff91a04d87751dc0132380a78a30c746d3307f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64652e6a732d3433383533643f7374796c653d666c61742d737175617265266c6f676f3d4e6f64652e6a73266c6f676f436f6c6f723d7768697465)
