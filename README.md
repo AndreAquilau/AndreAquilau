@@ -3,14 +3,9 @@
 ### Seja bem vindo ao meu repositório! 👋 aqui fica reunido a maioria dos meus projetos de estudo, a minha evolução diária em busca da senioridade e proficiência como programador. 🏆
 
 ### 💼 Trabalho com
-![Java](https://img.shields.io/badge/-Java-E42D2C?style=flat-square&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-CE608A?style=flat-square&logo=kotlin&logoColor=white)
-![Spring](https://img.shields.io/badge/-Spring-6AAE3D?style=flat-square&logo=spring&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=fff)
 ![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
 ![Postgresql](https://img.shields.io/badge/-Postgresql-32648D?style=flat-square&logo=postgresql&logoColor=white)
-![Hibernate](https://img.shields.io/badge/-Hibernate-B7A976?style=flat-square&logo=hibernate&logoColor=white)
-![JPA](https://img.shields.io/badge/-JPA-58646A?style=flat-square&logo=jpa&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![Yarn](https://img.shields.io/badge/-Yarn-2B8AB6?style=flat-square&logo=yarn&logoColor=white)
@@ -18,11 +13,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FD602F?style=flat-square&logo=postman&logoColor=white)
-![IntellijIDEA](https://img.shields.io/badge/-IntellijIDEA-C83C76?style=flat-square&logo=intellij-idea&logoColor=white)
-![WebStorm](https://img.shields.io/badge/-WebStorm-C83C76?style=flat-square&logo=webstorm&logoColor=white)
-![DataGrip](https://img.shields.io/badge/-DataGrip-C83C76?style=flat-square&logo=datagrip&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-0085D1?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20Web%20Services-222E3C?style=flat-square&logo=amazon-aws&logoColor=F89500)
 ![Prettier](https://img.shields.io/badge/-Prettier-1A2B34?style=flat-square&logo=prettier&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-16C60C?style=flat-square&logo=linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
@@ -30,24 +21,7 @@
 ### 💻 Estudando atualmente
 ![Nodejs](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React.js-45b8d8?style=flat-square&logo=react&logoColor=white)
-![React Native](https://img.shields.io/badge/-React%20Native-45b8d8?style=flat-square&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0077C6?style=flat-square&logo=typescript&logoColor=fff)
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)
 
-### 👀 Estou interessado
-![Rabbitmq](https://img.shields.io/badge/-RabbitMQ-ff6600?style=flat-square&logo=rabbitmq&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-69d7e2?style=flat-square&logo=go&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-064C62?style=flat-square&logo=jenkins&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-316AE0?style=flat-square&logo=kubernetes&logoColor=white)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=georgealan&layout=compact)
----
-
-### 💡 Dica de plataformas de Estudo
-Você programador que deseja treinar a sua lógica e aperfeiçoar suas habilidades deixo aqui a dica de três sites ótimos para você se desenvolver.
-
-- [Codility](https://app.codility.com/programmers/)
-- [Hackerrank](https://www.hackerrank.com/)
-- [URI Online Judge](https://www.urionlinejudge.com.br/judge/en/login)
 
