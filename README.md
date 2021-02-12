@@ -1,3 +1,3 @@
 ### Hi there, I'm André 👋
 
-## 💻 Estudando atualmente
+# 💻 Estudando atualmente
