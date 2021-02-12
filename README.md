@@ -1,2 +1,2 @@
 ### Hi there, I'm André 👋
-[![Foo](./assets/img/linkdin.svg)](http://google.com.au/)
+[![](https://github.com/AndreAquilau/AndreAquilau/blob/master/assets/img/linkedin.svg)](http://google.com.au/)
