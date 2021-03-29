@@ -17,6 +17,7 @@
 ![Prettier](https://img.shields.io/badge/-Prettier-1A2B34?style=flat-square&logo=prettier&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-16C60C?style=flat-square&logo=linux&logoColor=white)
 ![React](https://img.shields.io/badge/-React.js-45b8d8?style=flat-square&logo=react&logoColor=white)
+![AdobeXD](https://img.shields.io/badge/-Adobe%20XD-1A2B34?style=flat-square&logo=adobe&logoColor=E0234E)
 ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-1A2B34?style=flat-square&logo=Nestjs&logoColor=E0234E)
 ![Angular](https://img.shields.io/badge/-Angular-1A2B34?style=flat-square&logo=Angular&logoColor=E0234E)
