@@ -28,6 +28,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-000?style=flat-square&logo=Nestjs&logoColor=E0234E)
 ![Angular](https://img.shields.io/badge/-Angular-000?style=flat-square&logo=Angular&logoColor=E0234E)
+![ReactiveX](https://img.shields.io/badge/-ReactiveX-000?style=flat-square&logo=ReactiveX&logoColor=E0234E)
 
 
 
