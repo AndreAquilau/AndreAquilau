@@ -18,11 +18,13 @@
 ![Linux](https://img.shields.io/badge/-Linux-16C60C?style=flat-square&logo=linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-000?style=flat-square&logo=Nestjs&logoColor=E0234E)
+![Angular](https://img.shields.io/badge/-Angular-000?style=flat-square&logo=Angular&logoColor=E0234E)
 
 ### 💻 Estudando atualmente
 ![Nodejs](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React.js-45b8d8?style=flat-square&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0077C6?style=flat-square&logo=typescript&logoColor=fff)
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-000?style=flat-square&logo=Nestjs&logoColor=E0234E)
 
 
