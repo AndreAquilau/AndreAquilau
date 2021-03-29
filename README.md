@@ -17,6 +17,7 @@
 ![Prettier](https://img.shields.io/badge/-Prettier-1A2B34?style=flat-square&logo=prettier&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-16C60C?style=flat-square&logo=linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-000?style=flat-square&logo=Nestjs&logoColor=E0234E)
 
 ### 💻 Estudando atualmente
 ![Nodejs](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white)
