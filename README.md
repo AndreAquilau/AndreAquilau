@@ -26,5 +26,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0077C6?style=flat-square&logo=typescript&logoColor=fff)
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-000?style=flat-square&logo=Nestjs&logoColor=E0234E)
+![Angular](https://img.shields.io/badge/-Angular-000?style=flat-square&logo=Angular&logoColor=E0234E)
+
 
 
