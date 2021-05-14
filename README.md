@@ -22,6 +22,8 @@
 ![NestJS](https://img.shields.io/badge/-NestJS-1A2B34?style=flat-square&logo=Nestjs&logoColor=E0234E)
 ![Angular](https://img.shields.io/badge/-Angular-1A2B34?style=flat-square&logo=Angular&logoColor=E0234E)
 ![Scss](https://img.shields.io/badge/-SCSS-1A2B34?style=flat-square&logo=sass&logoColor=E0234E)
+![PHP](https://img.shields.io/badge/-PHP-7377AD?style=flat-square&logo=php&logoColor=white)
+![Laravel Framework](https://img.shields.io/badge/-Laravel-F7F7F7?style=flat-square&logo=laravel&logoColor=E8392C)
 
 ### 💻 Estudando Atualmente
 ![Nodejs](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white)
