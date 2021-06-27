@@ -34,7 +34,7 @@
 ![Angular](https://img.shields.io/badge/-Angular-1A2B34?style=flat-square&logo=Angular&logoColor=E0234E)
 ![ReactiveX](https://img.shields.io/badge/-ReactiveX-1A2B34?style=flat-square&logo=ReactiveX&logoColor=E0234E)
 ![.Net Core](https://img.shields.io/badge/-.Net%20Core-592C8C?style=flat-square&logo=.Net&logoColor=FFF)
-![Cypress.io](https://img.shields.io/badge/tested%20with-Cypress-04C38E.svg)]
+![Cypress.io](https://img.shields.io/badge/tested%20with-Cypress-04C38E.svg)
 
 
 
