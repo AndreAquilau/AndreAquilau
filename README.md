@@ -1,4 +1,4 @@
-# :man_technologist: André Aquilau
+# :man_technologist: André Aquilau <br/>
 
 ### Seja bem vindo ao meu repositório! 👋 aqui fica reunido a maioria dos meus projetos de estudo, a minha evolução diária em busca da senioridade e proficiência como programador. 🏆
 
