@@ -29,8 +29,6 @@
 ![Nodejs](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0077C6?style=flat-square&logo=typescript&logoColor=fff)
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-1A2B34?style=flat-square&logo=Angular&logoColor=E0234E)
-![ReactiveX](https://img.shields.io/badge/-ReactiveX-1A2B34?style=flat-square&logo=ReactiveX&logoColor=E0234E)
 ![.Net Core](https://img.shields.io/badge/-.Net%20Core-592C8C?style=flat-square&logo=.Net&logoColor=FFF)
 ![Cypress.io](https://img.shields.io/badge/tested%20with-Cypress-04C38E.svg)
 
