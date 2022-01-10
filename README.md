@@ -19,18 +19,16 @@
 ![React](https://img.shields.io/badge/-React.js-45b8d8?style=flat-square&logo=react&logoColor=white)
 ![AdobeXD](https://img.shields.io/badge/-Adobe%20XD-1A2B34?style=flat-square&logo=adobe&logoColor=E0234E)
 ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-1A2B34?style=flat-square&logo=Angular&logoColor=E0234E)
 ![Scss](https://img.shields.io/badge/-SCSS-1A2B34?style=flat-square&logo=sass&logoColor=E0234E)
-![PHP](https://img.shields.io/badge/-PHP-7377AD?style=flat-square&logo=php&logoColor=white)
-![Laravel Framework](https://img.shields.io/badge/-Laravel-F7F7F7?style=flat-square&logo=laravel&logoColor=E8392C)
-![Vue.js](https://img.shields.io/badge/-Vue.js-3FB27F?style=flat-square&logo=vue&logoColor=E8392C)
-
-### 💻 Estudando Atualmente
 ![Nodejs](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0077C6?style=flat-square&logo=typescript&logoColor=fff)
+![Cypress.io](https://img.shields.io/badge/tested%20with-Cypress-04C38E.svg)
+
+### 💻 Estudando Atualmente
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
 ![.Net Core](https://img.shields.io/badge/-.Net%20Core-592C8C?style=flat-square&logo=.Net&logoColor=FFF)
-![Cypress.io](https://img.shields.io/badge/tested%20with-Cypress-04C38E.svg)
+![Dart](https://img.shields.io/badge/-Dart-1C2834?style=flat-square&logo=dart&logoColor=05599C)
+![Flutter](https://img.shields.io/badge/-flutter-1C2834?style=flat-square&logo=flutter&logoColor=05599C)
 
 
 
