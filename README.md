@@ -28,7 +28,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
 ![.Net Core](https://img.shields.io/badge/-.Net%20Core-592C8C?style=flat-square&logo=.Net&logoColor=FFF)
 ![Dart](https://img.shields.io/badge/-Dart-1C2834?style=flat-square&logo=dart&logoColor=05599C)
-![Flutter](https://img.shields.io/badge/-flutter-1C2834?style=flat-square&logo=flutter&logoColor=05599C)
+![Flutter](https://img.shields.io/badge/-Flutter-1C2834?style=flat-square&logo=Flutter&logoColor=05599C)
 
 
 
