@@ -15,20 +15,24 @@
 ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
 ![Scss](https://img.shields.io/badge/-SCSS-1A2B34?style=flat-square&logo=sass&logoColor=E0234E)
 ![Cypress.io](https://img.shields.io/badge/tested%20with-Cypress-04C38E.svg)
-![.Net Core](https://img.shields.io/badge/-.Net%20Core-592C8C?style=flat-square&logo=.Net&logoColor=FFF)
+![Postgresql](https://img.shields.io/badge/-Postgresql-32648D?style=flat-square&logo=postgresql&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-592C8C?style=flat-square&logo=PHP&logoColor=FFF)
+![Vue.js](https://img.shields.io/badge/-Vue.js-3FB27F?style=flat-square&logo=Vue.js&logoColor=FFF)
 
 ### 💻 Trabalha Atualmente com:
 ![Postman](https://img.shields.io/badge/-Postman-FD602F?style=flat-square&logo=postman&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-0085D1?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Postgresql](https://img.shields.io/badge/-Postgresql-32648D?style=flat-square&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
-![Yarn](https://img.shields.io/badge/-Yarn-2B8AB6?style=flat-square&logo=yarn&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-652076?style=flat-square&logo=Visual%20Studio&logoColor=FFF)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-82B252?style=flat-square&logo=Android%20Studio&logoColor=FFF)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-5362C4?style=flat-square&logo=IntelliJ%20IDEA&logoColor=FFF)
+![.Net Core](https://img.shields.io/badge/-.Net%20Core-592C8C?style=flat-square&logo=.Net&logoColor=FFF)
 ![Nodejs](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0077C6?style=flat-square&logo=typescript&logoColor=fff)
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-1C2834?style=flat-square&logo=dart&logoColor=05599C)
 ![Flutter](https://img.shields.io/badge/-Flutter-1C2834?style=flat-square&logo=Flutter&logoColor=05599C)
+![Angular](https://img.shields.io/badge/-Angular-D82D2F?style=flat-square&logo=Angular&logoColor=FFF)
+
 
 
 
