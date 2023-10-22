@@ -28,16 +28,3 @@
 ![VSCode](https://img.shields.io/badge/-VSCode-0085D1?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
 ![Jest Unit](https://img.shields.io/badge/-Jest%20unit-944058?style=flat-square&logo=Jest&logoColor=white)
-
-### 💻 Trabalha Atualmente com:
-![Nodejs](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-0077C6?style=flat-square&logo=typescript&logoColor=fff)
-![Vue.js](https://img.shields.io/badge/-Vue.js-3FB27F?style=flat-square&logo=Vue.js&logoColor=FFF)
-![Angular](https://img.shields.io/badge/-Angular-D82D2F?style=flat-square&logo=Angular&logoColor=FFF)
-![VSCode](https://img.shields.io/badge/-VSCode-0085D1?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Cypress.io](https://img.shields.io/badge/tested%20with-Cypress-04C38E.svg)
-![Jest Unit](https://img.shields.io/badge/-Jest%20unit-944058?style=flat-square&logo=Jest&logoColor=white)
-[![Docker Image CI](https://github.com/AndreAquilau/clean-med-app/actions/workflows/docker-image.yml/badge.svg)](https://github.com/AndreAquilau/clean-med-app/actions/workflows/docker-image.yml)
-![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
-![.Net Core](https://img.shields.io/badge/-.Net%20Core-592C8C?style=flat-square&logo=.Net&logoColor=FFF)
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-652076?style=flat-square&logo=Visual%20Studio&logoColor=FFF)
