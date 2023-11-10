@@ -48,5 +48,4 @@
 <a href="https://github.com/AndreAquilau/clean-med-api">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andreaquilau&repo=clean-med-api&theme=buefy" />
 </a>
-
 <br />
