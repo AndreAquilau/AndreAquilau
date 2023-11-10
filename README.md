@@ -1,8 +1,8 @@
-# :man_technologist: André Aquilau <br/>
+## Hey, I'm André Aquilau! 👋
 
-### Seja bem vindo ao meu repositório! 👋 aqui fica reunido a maioria dos meus projetos de estudo, a minha evolução diária em busca da senioridade e proficiência como programador. 🏆
+### Welcome to my repository! 👋
 
-### 💼 Conhecimentos em:
+### 💼 Knowledge in:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=fff)
 ![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -28,3 +28,25 @@
 ![VSCode](https://img.shields.io/badge/-VSCode-0085D1?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
 ![Jest Unit](https://img.shields.io/badge/-Jest%20unit-944058?style=flat-square&logo=Jest&logoColor=white)
+
+
+<a href="https://github.com/anuraghazra">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=andreaquilau" />
+</a>
+<a href="https://github.com/andreaquilau">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andreaquilau&layout=compact&langs_count=8&card_width=320" />
+</a>
+<br>
+<br>
+<br>
+
+#### Top Repositories
+
+<a href="https://github.com/AndreAquilau/clean-med-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andreaquilau&repo=clean-med-app&theme=buefy" />
+</a>
+<a href="https://github.com/AndreAquilau/clean-med-api">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andreaquilau&repo=clean-med-api&theme=buefy" />
+</a>
+
+<br />
