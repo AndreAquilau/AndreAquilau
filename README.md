@@ -40,7 +40,7 @@
 <br>
 <br>
 
-#### Top Repositories
+#### Repositories
 
 <a href="https://github.com/AndreAquilau/clean-med-app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andreaquilau&repo=clean-med-app&theme=buefy" />
