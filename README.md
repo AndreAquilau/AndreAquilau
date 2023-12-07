@@ -50,7 +50,6 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andreaquilau&repo=clean-med-api&theme=buefy" />
     </a>
   </div>
-  <div height=20 ></div>
   <div>  
     <a href="https://github.com/AndreAquilau/myfinance-web-dotnet">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andreaquilau&repo=myfinance-web-dotnet&theme=buefy" />
