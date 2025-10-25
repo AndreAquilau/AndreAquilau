@@ -29,13 +29,3 @@
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
 ![Jest Unit](https://img.shields.io/badge/-Jest%20unit-944058?style=flat-square&logo=Jest&logoColor=white)
 
-
-<a href="https://github.com/anuraghazra">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=andreaquilau" />
-</a>
-<a href="https://github.com/andreaquilau">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andreaquilau&layout=compact&langs_count=8&card_width=320" />
-</a>
-<br>
-<br>
-<br>
